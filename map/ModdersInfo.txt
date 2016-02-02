@@ -1,0 +1,21 @@
+Info for Modders
+
+
+TACTICS~CAMPAIGN Is A Modular Hex Based Tool Case For Map Modding
+
+
+U are Welcome to Create New Maps Based on TACTICS~CAMPAIGN
+
+Please do XML Changes ONLY 
+- Because Then Everybody can Enjoy Ur Mod Without Downloading
+
+-Please Name The Games =TC.Ur Map Name=
+And Write Infos In Game Notes
+Struckture Of Game Notes Schould Stay Only NAME and STATS Schould be
+Changed
+
+Post Created Versions Under The TACTICS~CAMPAIGN Posting @ www.tripleadev.org
+
+Have Fun
+
+sieg
