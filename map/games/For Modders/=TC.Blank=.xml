@@ -1271,7 +1271,7 @@
     <attachment name="unitAttachment" attachTo="Bunker" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
       <option name="attack" value="0"/>
       <option name="defense" value="3"/>
-      <option name="isTwoHit" value="true"/>
+      <option name="hitPoints" value="2"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Base A" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="1"/>
