@@ -1172,7 +1172,7 @@
       <option name="transportCost" value="3"/>
       <option name="attack" value="2"/>
       <option name="defense" value="2"/>
-      <option name="Artillery" value="true"/>
+      <option name="artillery" value="true"/>
     </attachment>
     <attachment name="unitAttachment" attachTo="Truck" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
       <option name="movement" value="3"/>
