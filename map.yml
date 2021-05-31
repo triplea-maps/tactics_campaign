@@ -1,0 +1,12 @@
+map_name: tactics_campaign
+games:
+- {game_name: =TC.EUTOPIA=, file_name: =TC.EUTOPIA=.xml}
+- {game_name: =TC.NAVAL ARENA FFA=, file_name: =TC.NAVALARENA_FFA=.xml}
+- {game_name: =TC.NAVAL ARENA=, file_name: =TC.NAVALARENA=.xml}
+- {game_name: =TC.ISLANDS=, file_name: =TC.ISLANDS=.xml}
+- {game_name: =TC.SEABLITZ North VS South=, file_name: =TC.SEABLITZ=.xml}
+- {game_name: =TC.ARENA_FFA=, file_name: =TC.ARENA_FFA=.xml}
+- {game_name: =TC.ISLANDS.FFA=, file_name: =TC._ISLANDS_FFA=.xml}
+- {game_name: =TC.RIVER=, file_name: =TC.RIVER=.xml}
+- {game_name: =TC.FRONT=, file_name: =TC.Blank=.xml}
+- {game_name: =TC.BLITZKRIEG2=, file_name: =TC.BLITZKRIEG=.xml}
